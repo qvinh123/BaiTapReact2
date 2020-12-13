@@ -1,0 +1,69 @@
+.header {
+    position: relative;
+}
+
+.header h1 {
+    padding: 10px 0;
+    background-color: rgba(0, 0, 0, .6);
+    position: relative;
+    z-index: 4;
+    color: white;
+}
+.header img{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    height: 100vh;
+}
+.header .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .4);
+    z-index: 2;
+}
+.glasses_item img,.model img {
+    width: 110px;
+}
+
+.glasses_item {
+    margin: 10px 15px 0 ;
+    border:1px solid #333;
+    padding: 10px;
+}
+.model{
+    position: relative;
+    width: 200px;
+    margin: 0 auto;
+    z-index: 4;
+}
+.model-2{
+    position: relative;
+    z-index: 4;
+}
+.model .v1{
+    position: absolute;
+    top: 63px;
+    left: 45px;
+}
+.model .content{
+    position: absolute;
+    top: 142px;
+    background: rgba(255, 153, 0, 0.3);
+}
+.model .content h3{
+    font-size: 20px;
+    color: purple;
+}
+.model .content p{
+    font-size: 12px;
+    color: white;
+}
+.glasses{
+    position: relative;
+    z-index: 4;
+}
