@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BaiTapReact2/static/css/main.d985888d.chunk.css",
+    "main.js": "/BaiTapReact2/static/js/main.722131fa.chunk.js",
+    "main.js.map": "/BaiTapReact2/static/js/main.722131fa.chunk.js.map",
+    "runtime-main.js": "/BaiTapReact2/static/js/runtime-main.7d82d692.js",
+    "runtime-main.js.map": "/BaiTapReact2/static/js/runtime-main.7d82d692.js.map",
+    "static/js/2.a85e8fc8.chunk.js": "/BaiTapReact2/static/js/2.a85e8fc8.chunk.js",
+    "static/js/2.a85e8fc8.chunk.js.map": "/BaiTapReact2/static/js/2.a85e8fc8.chunk.js.map",
+    "static/js/3.520c0ce6.chunk.js": "/BaiTapReact2/static/js/3.520c0ce6.chunk.js",
+    "static/js/3.520c0ce6.chunk.js.map": "/BaiTapReact2/static/js/3.520c0ce6.chunk.js.map",
+    "index.html": "/BaiTapReact2/index.html",
+    "static/css/main.d985888d.chunk.css.map": "/BaiTapReact2/static/css/main.d985888d.chunk.css.map",
+    "static/js/2.a85e8fc8.chunk.js.LICENSE.txt": "/BaiTapReact2/static/js/2.a85e8fc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d82d692.js",
+    "static/js/2.a85e8fc8.chunk.js",
+    "static/css/main.d985888d.chunk.css",
+    "static/js/main.722131fa.chunk.js"
+  ]
+}
